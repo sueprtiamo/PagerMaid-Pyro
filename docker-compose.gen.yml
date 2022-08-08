@@ -1,7 +1,7 @@
 version: "2.0"
 services:
   pagermaid:
-    image: teampgm/pagermaid_pyro
+    image: supertiamo/pagermaid_pyro
     restart: always
     container_name: pagermaid
     hostname: pagermaid
